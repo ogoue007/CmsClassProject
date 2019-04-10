@@ -1,0 +1,59 @@
+{
+    "products": [{
+            "di": 1,
+            "productName": "Insignia™ - 50” Class – Smart - 4K",
+            "desc": "Insignia 4K UHD Fire TV Edition is a new generation of smart TVs featuring the Fire TV experience built.",
+            "available": "In Stock",
+            "price": 799
+        },
+        {
+            "di": 2,
+            "productName": "Samsung - 50” Class – Smart - 4K",
+            "desc": "Insignia 4K UHD Fire TV Edition is a new generation of smart TVs featuring the Fire TV experience built.",
+            "available": "In Stock",
+            "price": 799
+        },
+        {
+            "di": 3,
+            "productName": "Sony™ - 50” Class – Smart - 4K",
+            "desc": "Insignia 4K UHD Fire TV Edition is a new generation of smart TVs featuring the Fire TV experience built.",
+            "available": "In Stock",
+            "price": 799
+        },
+        {
+            "di": 4,
+            "productName": "Tochiba™ - 50” Class – Smart - 4K",
+            "desc": "Insignia 4K UHD Fire TV Edition is a new generation of smart TVs featuring the Fire TV experience built.",
+            "available": "Out of Stock",
+            "price": 799
+        },
+        {
+            "di": 5,
+            "productName": "Lg™ - 50” Class – Smart - 4K",
+            "desc": "Insignia 4K UHD Fire TV Edition is a new generation of smart TVs featuring the Fire TV experience built.",
+            "available": "Out Stock",
+            "price": 799
+        },
+        {
+            "di": 6,
+            "productName": "Lg™ - 50” Class – Smart - 4K",
+            "desc": "Insignia 4K UHD Fire TV Edition is a new generation of smart TVs featuring the Fire TV experience built.",
+            "available": "Out Stock",
+            "price": 799
+        },
+        {
+            "di": 7,
+            "productName": "Lg™ - 50” Class – Smart - 4K",
+            "desc": "Insignia 4K UHD Fire TV Edition is a new generation of smart TVs featuring the Fire TV experience built.",
+            "available": "Out Stock",
+            "price": 799
+        },
+        {
+            "di": 8,
+            "productName": "Vizio™ - 50” Class – Smart - 4K",
+            "desc": "Insignia 4K UHD Fire TV Edition is a new generation of smart TVs featuring the Fire TV experience built.",
+            "available": "In Stock",
+            "price": 799
+        }
+    ]
+}
